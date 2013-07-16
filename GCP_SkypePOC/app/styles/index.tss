@@ -1,0 +1,45 @@
+".container": {
+	backgroundColor:"white",
+	 
+},
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+},
+ 
+
+
+"#printDocView":{
+	layout:'vertical',
+	top:'10%',
+	
+},
+
+ 
+
+"#buttonView":{
+	left:'20%',
+	right:'20%',
+	layout:'horizontal',
+	 
+},
+
+"#username" :{
+	 
+	width : "50%",
+	height : "37dip",
+	left:'20%',
+	hintText :  'Enter Skype contact name',
+	borderWidth: 2,
+	textAlign: 'center',
+ 	borderColor: '#bbb',
+ 	borderRadius: 5,
+	font: {
+		fontFamily:'Helvetica',
+		fontSize: '18dip',
+		fontStyle: 'normal',
+		fontWeight: 'normal'
+	},
+
+},

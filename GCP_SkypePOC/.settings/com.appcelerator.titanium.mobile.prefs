@@ -1,0 +1,17 @@
+android/ATTR_MINIFY=true
+android/ATTR_PROJECT_NAME=PrintDoc_GCP
+android/abi=armeabi
+android/distribute_path=C\:\\Users\\ponnuss\\Desktop
+android/keystore_alias=saamy
+android/keystore_password=
+android/keystore_path=/Saamy/Android/SaamyKeystore.keystore
+android/recent_output=C\:\\Users\\ponnuss\\Desktop
+android/sdk_version=Google APIs Android 2.2
+eclipse.preferences.version=1
+iosLaunchConfigurationAttributes/ATTR_MINIFY=true
+iosLaunchConfigurationAttributes/ATTR_PROJECT_NAME=PrintDoc_GCP
+iosLaunchConfigurationAttributes/appid=com.trgc.dev.yourpaperwork
+iosLaunchConfigurationAttributes/certificate=Jenna Walker (AXPR2KJ286)
+iosLaunchConfigurationAttributes/keychain=
+iosLaunchConfigurationAttributes/sdk_version=6.1
+iosLaunchConfigurationAttributes/uuid=2EEA70EA-5678-4338-8926-007D7A1AA47E

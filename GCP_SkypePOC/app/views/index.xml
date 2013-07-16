@@ -1,0 +1,15 @@
+<Alloy>
+	<Window class="container" >
+		<View  id="printDocView" >
+			<TextField id = "username"></TextField>
+			<View  id="buttonView" layout='horizontal'>
+				<Button id="doAudioSkypeCall" onClick="doAudioSkypeCall">Audio Call</Button>
+				<Button id="doVideoSkypeCall" onClick="doVideoSkypeCall">Video Call</Button>
+				<Button id="downloadDoc" onClick="downloadDocument">DownloadDoc</Button>
+				<Button id="remortPrint" onClick="doPrintRemoteDoc">GCP Remote</Button>
+				<Button id="localPrint" onClick="doPrintLocalDoc">GCP Local</Button>
+				<Button id="airPrint" onClick="doAirPrint"  platform = "ios">AirPrint</Button>
+			</View>
+		</View>
+	</Window>
+</Alloy>
